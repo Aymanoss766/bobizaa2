@@ -10,22 +10,22 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['212605784394', 'bobiza', true],
+  ['212600510648', 'bobiza', true],
 
-  ['212605784394','bobiza', true],
-  ['212605784394'],
-  ['212605784394']
+  ['212600510648','bobiza', true],
+  ['212600510648'],
+  ['212600510648']
 ];
 
-global.suittag = ['212605784394'];
-global.prems = ['212605784394'];
+global.suittag = ['212600510648'];
+global.prems = ['212600510648'];
 
-global.packname = 'bobiza bot';
-global.author = 'bobiza';
-global.wm = 'bobiza';
-global.titulowm = 'bobiza';
-global.titulowm2 = `bobiza`
-global.igfg = 'bobiza';
+global.packname = 'chaindesk bot';
+global.author = 'chaindesk';
+global.wm = 'chaindesk';
+global.titulowm = 'chaindesk';
+global.titulowm2 = `chaindesk`
+global.igfg = 'chaindesk';
 global.wait = '*|🏃| loading...*\n*نحاول تلبية طلبكم لا تستعجلوا* ♥\ninstagram.com/ayman_khl15';
 
 global.mods = [];
